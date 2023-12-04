@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/muhammad-afan/expense-tracker/static/css/main.e19e8732.css",
+    "main.js": "/muhammad-afan/expense-tracker/static/js/main.a5d89c07.js",
+    "index.html": "/muhammad-afan/expense-tracker/index.html",
+    "main.e19e8732.css.map": "/muhammad-afan/expense-tracker/static/css/main.e19e8732.css.map",
+    "main.a5d89c07.js.map": "/muhammad-afan/expense-tracker/static/js/main.a5d89c07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e19e8732.css",
+    "static/js/main.a5d89c07.js"
+  ]
+}
